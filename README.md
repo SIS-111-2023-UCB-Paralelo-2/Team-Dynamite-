@@ -12,7 +12,9 @@
 - Somos un grupo que tiene como meta concluir uno de los siguientes proyectos:
 
 1)Desarrollar una aplicación que guíe y enseñe a adolescentes a crear sus primeros diagramas de flujo y códigos sencillos 
+
 2)
+
 3)
 
 Este team está conformado por: Daniel Nava,  Luis Miguel Rodriguez, Erika Pedraza y Milagros Ortiz 👩🏻‍💻👨🏻‍💻
