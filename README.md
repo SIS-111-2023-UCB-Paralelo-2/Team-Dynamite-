@@ -11,7 +11,7 @@
 
 - Somos un grupo que tiene como meta concluir uno de los siguientes proyectos:
 
-1)Desarrollar una aplicación que guíe y enseñe a adolescentes a crear sus primeros diagramas de flujo y códigos sencillos 
+1)
 
 2)
 
