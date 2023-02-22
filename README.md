@@ -15,7 +15,7 @@
 
 2)Crear un videojuego que desarrolle de manera didáctica y divertida la lógica de programación o la inteligencia espacial🧩♟🎲
 
-3)Crear una aplicación que permita al usuario aprender desde cero a tocar algún instrumento basandose en la recomendación de vídeos tutoriales, una biblioteca de canciones y pequeños desafiós que ayuden al usuario a llevar una práctica continua en el aprendizaje de un nuevo instrumento. ♫ ♪ ♬
+3)Crear una aplicación que permita al usuario aprender desde cero a tocar algún instrumento basandose en la recomendación de vídeos tutoriales, una biblioteca de canciones y pequeños desafíos que ayuden al usuario a llevar una práctica continua en el aprendizaje de un nuevo instrumento. ♫ ♪ ♬
 
 Este team está conformado por: Daniel Nava,  Luis Miguel Rodriguez, Erika Pedraza y Milagros Ortiz 👩🏻‍💻👨🏻‍💻
 
