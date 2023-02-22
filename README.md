@@ -21,5 +21,5 @@ Este team está conformado por: Daniel Nava,  Luis Miguel Rodriguez, Erika Pedra
 
 Tj.21/02/2023
 
-Created by Milagros Ortiz
+
 
